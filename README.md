@@ -10,9 +10,14 @@ Olá meu nome é Felippe, sou devopler de Front-End. Graduando em Letras - Líng
 🌱 Atualmente estou aprendendo, Java Script, Python e React
 
 
+
+
 <img src = "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width = "400px" max-width = "400px" width = "400px" align = "right" alt = "Computador iuriCode">
 
 🦄 Habilidades: HTML, CSS, JavaScript and Bootstrap
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  ![HTML](https://img.shields.io/badge/-HTML-red)
+  ![CSS](https://img.shields.io/badge/-HTML-red)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -20,7 +25,6 @@ Olá meu nome é Felippe, sou devopler de Front-End. Graduando em Letras - Líng
 📫 Como entrar em contato comigo:
 ------------------------------------------------------------------------------------------------------------
 
-https://www.instagram.com/flupynho/    http://www.linkedin.com/in/felippesantos20
 
 
 
