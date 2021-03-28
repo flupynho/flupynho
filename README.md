@@ -9,7 +9,7 @@ Olá meu nome é Felippe, sou devopler de Front-End. Graduando em Letras - Líng
 🌱 Atualmente estou aprendendo, Java Script, Python e React
  
 
-![alt text](flupynho.github.com/repository/flupynho/11526-social-media.gif)
+![alt text](flupynho.github.com/repository/flupynho/img.jpg)
 
 🦄 Habilidades: HTML, CSS, JavaScript and Bootstrap
 
