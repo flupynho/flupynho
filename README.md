@@ -9,7 +9,7 @@ Olá meu nome é Felippe, sou devopler de Front-End. Graduando em Letras - Líng
 🔭 Atualmente estou trabalhando na Sollo Brasil Contact Center                                                        
 🌱 Atualmente estou aprendendo, Java Script, Python e React
 
-![alt text](http:https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+
  
 
 🦄 Habilidades: HTML, CSS, JavaScript and Bootstrap
