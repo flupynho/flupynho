@@ -1,8 +1,5 @@
-### Olá 👋
 
-
-
-Olá meu nome é Felippe, sou devopler de Front-End. Graduando em Letras - Língua Portuguesa, pela Estácio de Sá em Vitória/ES, estou disponovel para freelas/trabalho
+Olá meu nome é Felippe, sou Developer de Front-End. Graduando em Letras - Língua Portuguesa, pela Estácio de Sá em Vitória/ES, estou disponovel para freelas/trabalho
 
 
 
