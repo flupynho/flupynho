@@ -35,7 +35,8 @@ Olá meu nome é Felippe, sou Developer de Front-End. Graduando em Letras - Lín
   <a href="https://picpay.me/flupynho">
   <img src="https://img.shields.io/badge/PICPAY-25D366?style=for-the-badge&logo=picpay&logoColor=white&link=https://picpay.me/flupynho"/></a>
   </p>
-   
-  
-
+ 
+  ⭐ Mobile Developer
+  ----------------------------------------------------------------------------------------------------------
+  <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=flupynho&theme=synthwave&show_icons=true"/>
 
