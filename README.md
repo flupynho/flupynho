@@ -9,7 +9,7 @@ Olá meu nome é Felippe, sou Developer de Front-End. Graduando em Letras - Lín
 
 
 
-<img src = "https://lh3.googleusercontent.com/proxy/TTyR2haO0Ah-nf772MMq4oi2fUZFXergClgzp_P2GOSlYJQ-MirxaUcxdu3escd95GYBKHjbDhpVpJP1R8Jaez47NnsiBQuyi5ofHHYFFxphhOYwJ4gMo0tQHC7B0YWDo40G" min-width = "400px" max-width = "400px" width = "400px" align = "right" alt = "Computador">
+<img src = "https://media3.giphy.com/media/XAwnZuPDJcTWtOD2cI/source.gif" min-width = "400px" max-width = "400px" width = "400px" align = "right" alt = "Computador">
 
 🦄 Habilidades:
 ------------------------------------------------------------------------------------------------------------
