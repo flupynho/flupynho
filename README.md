@@ -1,7 +1,7 @@
 
 Olá meu nome é Felippe, sou Developer de Front-End. Graduando em Letras - Língua Portuguesa, pela Estácio de Sá em Vitória/ES, estou disponovel para freelas/trabalho
 
-
+<img src = "https://media3.giphy.com/media/XAwnZuPDJcTWtOD2cI/source.gif" min-width = "400px" max-width = "400px" width = "400px" align = "right" alt = "Computador">
 
 🔭 Atualmente estou trabalhando na Sollo Brasil Contact Center                                                        
 🌱 Atualmente estou aprendendo, Java Script, Python e React
@@ -9,7 +9,7 @@ Olá meu nome é Felippe, sou Developer de Front-End. Graduando em Letras - Lín
 
 
 
-<img src = "https://media3.giphy.com/media/XAwnZuPDJcTWtOD2cI/source.gif" min-width = "400px" max-width = "400px" width = "400px" align = "right" alt = "Computador">
+
 
 🦄 Habilidades:
 ------------------------------------------------------------------------------------------------------------
