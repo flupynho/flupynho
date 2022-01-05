@@ -37,5 +37,5 @@ Olá meu nome é Felippe, sou Developer de Front-End. Graduando em Letras - Lín
   </p>
  
   ⭐ Mobile Developer
-  ----------------------------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------------------------- 
   <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=flupynho&theme=synthwave&show_icons=true"/>
