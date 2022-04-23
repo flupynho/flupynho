@@ -9,8 +9,6 @@ Olá meu nome é Felippe, sou Developer de Front-End. Graduando em Letras - Lín
 
 
 
-
-
 🦄 Habilidades:
 ------------------------------------------------------------------------------------------------------------
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
