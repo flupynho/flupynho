@@ -31,3 +31,7 @@ Olá meu nome é Felippe, sou Developer de Front-End. Graduando em Letras - Lín
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/felippelipy.75641"/></a>
   </p>
  
+ 
+ 🌟 Desenvolvimento:
+------------------------------------------------------------------------------------------------------------
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=flupynho&theme=synthwave&show_icons=true"/>
