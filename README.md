@@ -43,3 +43,8 @@
  🌟 Desenvolvimento:
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=flupynho&theme=synthwave&show_icons=true"/>
+
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+
+### 🐍 A Snake Eating my Contributions Graph
+![Snake animation](https://github.com/flupynho/Snake/blob/main/github-user-contribution.svg)
